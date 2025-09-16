@@ -8,6 +8,7 @@ untuk desainnya sendiri saya membuat class dengan nama Gadget yang memiliki 5 at
 - harga : harga produknya
 - stok : jumlah stok
 - gambar : path file penyimpanan gambar
+
 dan untuk flow codenya :
 > inisialisasi : seperti inisialisasi list dan lainnya
 > do while loop : looping utama untuk memilih menu
