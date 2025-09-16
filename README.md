@@ -10,6 +10,7 @@ untuk desainnya sendiri saya membuat class dengan nama Gadget yang memiliki 5 at
 - gambar : path file penyimpanan gambar
 
 dan untuk flow codenya :
+## versi CLI
 > inisialisasi : seperti inisialisasi list dan lainnya
 
 > do while loop : looping utama untuk memilih menu
@@ -21,5 +22,14 @@ dan untuk flow codenya :
   - jika memilih menu hapus maka akan diminta id gadget yang ingin dihapus kemudian data akan dihapus
   - jika memilih menu cari maka akan meminta input berupa id gadget atau nama dari gadget yang ingin dicari, kalau ketemu akan menampilkan data gadget yang dicari jika tidak ada maka akan menampilkan tulisan data tidak ditemukan
 > do while akan berhenti saat memilih menu keluar
+
+## versi web
+> inisialisasi sesi
+
+> penanganan request
+
+> proses CRUD
+
+> persistensi 
 
 # Dokumentasi
