@@ -33,3 +33,15 @@ dan untuk flow codenya :
 > persistensi 
 
 # Dokumentasi
+
+## CPP
+<img width="1108" height="1025" alt="image" src="https://github.com/user-attachments/assets/95c3fe2d-a565-4370-a18f-c073285796c6" />
+
+## Java
+<img width="1118" height="723" alt="image" src="https://github.com/user-attachments/assets/0e1a9627-9630-4ead-a0be-d3392a5b183f" />
+
+## Python
+<img width="1104" height="1022" alt="image" src="https://github.com/user-attachments/assets/15d6b81b-9f37-4985-87cc-ee6af6aef6b9" />
+
+## PHP
+<img width="855" height="917" alt="image" src="https://github.com/user-attachments/assets/b776627a-7911-4889-8a7f-1cb5c1f6476e" />
