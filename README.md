@@ -12,7 +12,7 @@ untuk desainnya sendiri saya membuat class dengan nama Gadget yang memiliki 5 at
 dan untuk flow codenya :
 > inisialisasi : seperti inisialisasi list dan lainnya
 > do while loop : looping utama untuk memilih menu
-> proses menu berdasarkan pilihan
+> proses menu berdasarkan pilihan :
   - jika memilih menu tampilkan maka akan menampilkan data yang ada di dalam list
   - jika memilih Tambah maka akan meminta input data baru, data yang baru akan dimasukkan ke dalam list
   - jika memilih update maka akan diminta memasukkan id gadget yang ingin diupdate kemudian diminta memasukkan data baru, data di list akan diperbarui
