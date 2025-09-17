@@ -1,7 +1,7 @@
 #include <iostream>
 #include <vector>
 #include <iomanip>
-#include "Gadget.h"
+#include "Gadget.cpp"
 using namespace std;
 
 vector<Gadget> daftarGadget;
@@ -138,3 +138,4 @@ int main() {
 
     return 0;
 }
+
